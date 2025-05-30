@@ -1,1 +1,8 @@
 .venv
+sample_submission.csv
+test.csv 
+train.csv
+.ipynb_checkpoints
+catboost_info
+submission_stacked.csv
+.DS_Store
